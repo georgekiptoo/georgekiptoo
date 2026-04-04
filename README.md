@@ -13,7 +13,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+##  About Me
 
 I'm an international IT student with a background in both **Computer Science** and **Health Informatics**, currently in my second year at Transilvania University of Brașov. I have hands-on experience in back-end development, database design, and object-oriented programming.
 
@@ -25,7 +25,7 @@ I'm passionate about applying technology to solve real-world problems and I'm ac
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -56,7 +56,7 @@ I'm passionate about applying technology to solve real-world problems and I'm ac
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
 ### IT Equipment Management System
 > A back-end focused academic project aimed at digitally managing all IT equipment in an institution.
@@ -121,8 +121,6 @@ I'm passionate about applying technology to solve real-world problems and I'm ac
 ## Achievements
 
 - **Academic Project Excellence (Full Marks)** — IT Equipment Management System awarded full marks for outstanding back-end development, database design, and overall project delivery. Transilvania University of Brașov, 2025.
-- **Employee of the Month** — Ana Hotels Poiana Brasov (July 2025)
-- **Volunteer** — Red Cross Blood Donation Campaign, Nairobi (2022)
 
 ---
 
