@@ -15,7 +15,7 @@
 
 ##  About Me
 
-I'm an international IT student with a background in both **Iformation Management** and **Health Informatics**, currently in my second year at Transilvania University of Brașov. I have hands-on experience in back-end development, database design, and object-oriented programming.
+I'm an international IT student with a background in both **Information Management** and **Health Informatics**, currently in my second year at Transilvania University of Brașov. I have hands-on experience in back-end development, database design, and object-oriented programming.
 
 I'm passionate about applying technology to solve real-world problems and I'm actively looking for an internship opportunity in:
 
