@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>BSc Information Technology Student</b> · Transilvania University of Brașov, Romania<br/>
-  Kenyan · Brașov, Romania · 2nd Year · Seeking IT Internship (Summer 2025)
+  Kenyan · Brașov, Romania · 2nd Year · Seeking IT Internship (Summer 2026)
 </p>
 
 <p align="center">
