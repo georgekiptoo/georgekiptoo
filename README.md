@@ -112,9 +112,7 @@ I'm passionate about applying technology to solve real-world problems and I'm ac
 
 ## Certifications
 
-<!-- Add your certifications here as you complete them. Examples: -->
-- *[Add certification name] — [Issuer], [Year]*
-- *e.g. Google AI Essentials — Google, 2025*
+
 
 ---
 
