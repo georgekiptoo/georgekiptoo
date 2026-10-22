@@ -164,7 +164,7 @@ I'm currently interested in internship opportunities in:
 - **Practice Certificate (Atestat de Practică) — Waters Corporation, Brașov** — No. 60, issued 31 August 2026.
   - Completed 120 hours of practical training from 29 June to 24 July 2026.
   - Worked with Angular, TypeScript, MS SQL Server and .NET (C#, Entity Framework).
-  - Evaluated **"Foarte bine" (Very Good)**.
+  - Evaluated "Foarte bine" (Very Good).
 
 ---
 
