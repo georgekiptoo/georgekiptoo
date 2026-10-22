@@ -110,8 +110,6 @@ I'm currently interested in internship opportunities in:
 - Run stories as interactive experiences.
 - Apply object-oriented programming concepts in a desktop application.
 
-**Achievement:** Awarded full marks as an academic project.
-
 **Tech used:** `C#` `Windows Forms` `OOP`
 
 🔗 [github.com/georgekiptoo/InteractiveStory](https://github.com/georgekiptoo/InteractiveStory)
@@ -129,8 +127,6 @@ I'm currently interested in internship opportunities in:
 - 300 randomly generated background stars.
 - Interactive controls to pause and adjust animation speed.
 - Smooth animation targeting approximately 60 FPS.
-
-**Achievement:** Awarded full marks as an academic project.
 
 **Tech used:** `C++` `OpenGL` `GLUT` `3D Graphics` `Linear Algebra`
 
