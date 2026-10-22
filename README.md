@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm George Kiptoo</h1>
+<h1 align="center">Hi there,👋 I'm George Kiptoo</h1>
 
 <p align="center">
   <b>BSc Information Technology Student</b> · Transilvania University of Brașov, Romania<br/>
@@ -14,7 +14,7 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I'm an international IT student at Transilvania University of Brașov, with a previous degree in **Health Records & Information Management** and practical experience in full-stack development.
 
@@ -31,7 +31,7 @@ I'm currently interested in internship opportunities in:
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 **Languages**
 
@@ -74,7 +74,7 @@ I'm currently interested in internship opportunities in:
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### Live Auction Web Application *(Waters Corporation Internship)*
 
@@ -138,7 +138,7 @@ I'm currently interested in internship opportunities in:
 
 ---
 
-## Education
+## 🎓 Education
 
 | Degree | Institution | Period |
 |---|---|---|
@@ -168,14 +168,14 @@ I'm currently interested in internship opportunities in:
 
 ---
 
-## Achievements
+## 🚀 Achievements
 
 - **Academic Project Excellence:** Awarded full marks for the Solar System Simulation (C++, OpenGL) and Interactive Story (C#, Windows Forms).
 - **Waters Corporation Internship:** Completed 120 hours of full-stack development practice and received an official practice certificate rated "Foarte bine" (Very Good).
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=georgekiptoo&show_icons=true&theme=tokyonight&hide_border=true" alt="George's GitHub Stats" width="48%"/>
@@ -184,7 +184,7 @@ I'm currently interested in internship opportunities in:
 
 ---
 
-## Get In Touch
+## 🤝 Get In Touch
 
 I'm always open to internship opportunities, collaborations and conversations about software development.
 
