@@ -1,199 +1,201 @@
 
-<h1 align="center">Hi there, I'm George Kiptoo 👋</h1>
+<h1 align="center">Hi there, I'm George Kiptoo</h1>
 
 <p align="center">
-  <b>BSc Information Technology Student | Full-Stack Developer</b><br>
-  Transilvania University of Brașov, Romania<br>
-  🇰🇪 Kenyan · 📍 Brașov, Romania · 🎯 Seeking IT Internship — Summer 2027
+  <b>BSc Information Technology Student</b> · Transilvania University of Brașov, Romania<br/>
+  Kenyan · Brașov, Romania · 3rd Year · Seeking IT Internship (Summer 2027)
 </p>
 
 <p align="center">
-  <a href="mailto:limogeorge14@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/george-kiptoo"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/georgekiptoo"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:limogeorge14@gmail.com"><img src="https://img.shields.io/badge/Email-limogeorge14%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/george-kiptoo"><img src="https://img.shields.io/badge/LinkedIn-george--kiptoo-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/georgekiptoo"><img src="https://img.shields.io/badge/GitHub-georgekiptoo-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a third-year **Information Technology student** at Transilvania University of Brașov, with a previous degree in Health Records & Information Management and practical experience in full-stack development.
+I'm an international IT student at Transilvania University of Brașov, with a previous degree in **Health Records & Information Management** and practical experience in full-stack development.
 
-During my internship at **Waters Corporation**, I collaborated on a team web application using C#, .NET, Entity Framework, MS SQL Server, Angular and TypeScript.
+In summer 2026, I completed a full-stack development internship at **Waters Corporation**, where I collaborated on a team web application using C#, .NET, Entity Framework, MS SQL Server, Angular and TypeScript.
 
-I enjoy turning ideas into working applications, exploring new technologies and solving real-world problems through code.
+I'm passionate about building practical applications, learning new technologies and using software to solve real-world problems.
 
-- 💻 **Focus:** Full-Stack Development & Software Engineering
-- 🛠️ **Experience:** Full-stack development internship at Waters Corporation
-- 🎓 **Education:** BSc Information Technology
-- 🚀 **Goal:** Summer 2027 IT internship
-- 🌱 **Currently exploring:** Generative AI, OpenAI API and LLM-powered applications
+I'm currently interested in internship opportunities in:
 
----
-
-## 🧰 Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-### Frameworks & Libraries
-
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework">
-  <img src="https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Swing">
-  <img src="https://img.shields.io/badge/Windows%20Forms-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms">
-</p>
-
-### Databases & Developer Tools
-
-<p>
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
-</p>
-
-### Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-</p>
+- **Full-Stack Development** — C#, .NET, Angular, TypeScript and SQL
+- **Back-End Development** — C#, .NET, databases and object-oriented programming
+- **Generative AI** — exploring OpenAI APIs and LLM-powered applications
+- **Data & Analytics** — SQL, data management and analytical applications
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### 🔨 Live Auction Web Application
-**Full-Stack Development Internship · Waters Corporation · 2026**
+**Languages**
 
-A team-built web application for online auctions, developed during my full-stack internship.
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 
-- Contributed to a project using **C#, .NET, Entity Framework and MS SQL Server**.
-- Worked with **Angular and TypeScript** on the front end.
-- Collaborated with teammates using Git for version control.
-- Gained practical experience in full-stack development and team workflows.
+**Frameworks**
 
-**Tech Stack:** `C#` `.NET` `Entity Framework` `MS SQL Server` `Angular` `TypeScript` `Git`
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-512BD4?style=flat&logo=windows&logoColor=white)
 
-### 🎓 Student Management System
+**Databases & Tools**
 
-A Java desktop application for managing student records, built with Swing and SQLite.
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+**Graphics**
+
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
+![GLUT](https://img.shields.io/badge/GLUT-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Currently Learning**
+
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+---
+
+## Featured Projects
+
+### Live Auction Web Application *(Waters Corporation Internship)*
+
+> A team-built full-stack web application for online auctions, developed during my internship at Waters Corporation.
+
+**My Role:** Full-Stack Development Intern
+
+- Collaborated on a web application using C#, .NET, Entity Framework and MS SQL Server.
+- Contributed to the front end using Angular and TypeScript.
+- Worked with teammates using Git for version control.
+- Gained practical experience in full-stack development and collaborative software engineering.
+
+**Tech used:** `C#` `.NET` `Entity Framework` `MS SQL Server` `Angular` `TypeScript` `Git`
+
+### Student Management System
+
+> A Java desktop application for managing student records, built with Swing and SQLite.
 
 - Add, edit and delete student records.
-- Search and filter records.
-- Store data in a local SQLite database.
-- Manage records through a graphical user interface.
+- Search and filter student information.
+- Store records in a local SQLite database.
+- Manage student data through a graphical user interface.
 
-**Tech Stack:** `Java` `Swing` `SQLite`
+**Tech used:** `Java` `SQLite` `Java Swing`
 
-🔗 [Explore Repository](https://github.com/georgekiptoo/student-management-system)
+🔗 [github.com/georgekiptoo/student-management-system](https://github.com/georgekiptoo/student-management-system)
 
-### 📖 Interactive Story
+### Interactive Story
 
-A C# Windows Forms application for creating and running interactive stories built from narrative blocks.
+> A C# Windows Forms application for creating and running interactive stories built from narrative blocks.
 
-- Create stories from individual narrative blocks.
+- Create stories using individual narrative blocks.
 - Run stories as interactive experiences.
-- Apply object-oriented programming concepts.
+- Apply object-oriented programming concepts in a desktop application.
 
-🏆 **Achievement:** Awarded full marks as an academic project.
+**Achievement:** Awarded full marks as an academic project.
 
-**Tech Stack:** `C#` `Windows Forms` `OOP`
+**Tech used:** `C#` `Windows Forms` `OOP`
 
-🔗 [Explore Repository](https://github.com/georgekiptoo/InteractiveStory)
+🔗 [github.com/georgekiptoo/InteractiveStory](https://github.com/georgekiptoo/InteractiveStory)
 
-### 🪐 Solar System Simulation
+### Solar System Simulation
 
-An animated 3D Solar System built with C++ and OpenGL/GLUT.
+> An animated 3D Solar System built with C++ and OpenGL/GLUT, demonstrating 3D graphics, animation and lighting.
 
-- Simulates all eight planets orbiting the Sun.
-- Includes Earth's Moon and Saturn's rings.
-- Uses dynamic lighting and depth buffering.
-- Generates 300 background stars.
-- Supports pausing and adjusting animation speed.
+**Features:**
 
-🏆 **Achievement:** Awarded full marks as an academic project.
+- All eight planets with relative sizes, colours and orbital speeds.
+- Earth's Moon orbiting Earth.
+- Saturn's rings with realistic tilt.
+- Dynamic lighting from the Sun and depth buffering.
+- 300 randomly generated background stars.
+- Interactive controls to pause and adjust animation speed.
+- Smooth animation targeting approximately 60 FPS.
 
-**Tech Stack:** `C++` `OpenGL` `GLUT` `3D Graphics` `Linear Algebra`
+**Achievement:** Awarded full marks as an academic project.
 
-🔗 [Explore Repository](https://github.com/georgekiptoo/sistem-solar-simulation)
+**Tech used:** `C++` `OpenGL` `GLUT` `3D Graphics` `Linear Algebra`
+
+🔗 [github.com/georgekiptoo/sistem-solar-simulation](https://github.com/georgekiptoo/sistem-solar-simulation)
 
 ---
 
-## 🎓 Education
+## Education
 
 | Degree | Institution | Period |
 |---|---|---|
 | BSc Information Technology | Transilvania University of Brașov, Romania | 2024–Present |
 | BSc Health Records & Information Management | Kenyatta University, Kenya | 2015–2019 |
 
-**Relevant Coursework:** Algorithms & Data Structures · Object-Oriented Programming · Databases · Computer Networks · Logic Programming
+**Relevant coursework:** Algorithms & Data Structures · Object-Oriented Programming · Databases · Computer Networks · Formal Languages & Logic Programming (Prolog)
 
 ---
 
-## 🏅 Internship & Certification
+## Languages
 
-**Waters Corporation — Full-Stack Development Practice**
-
-📍 Brașov, Romania · 📅 29 June – 24 July 2026
-
-- Completed **120 hours** of practical training.
-- Worked with C#, .NET, Entity Framework, MS SQL Server, Angular and TypeScript.
-- Collaborated on a team web application.
-- Received an official *Atestat de Practică* (Practice Certificate), evaluated **"Foarte bine" (Very Good)**.
-
----
-
-## 🌍 Languages
-
-| Language | Proficiency |
+| Language | Level |
 |---|---|
 | Swahili | Native |
-| English | C1 — Proficient |
-| Romanian | B2 — Independent |
+| English | C1 – Proficient |
+| Romanian | B2 – Independent |
 
 ---
 
-## 📊 GitHub Statistics
+## Certifications
+
+- **Practice Certificate (Atestat de Practică) — Waters Corporation, Brașov** — No. 60, issued 31 August 2026.
+  - Completed 120 hours of practical training from 29 June to 24 July 2026.
+  - Worked with Angular, TypeScript, MS SQL Server and .NET (C#, Entity Framework).
+  - Evaluated **"Foarte bine" (Very Good)**.
+
+---
+
+## Achievements
+
+- **Academic Project Excellence:** Awarded full marks for the Solar System Simulation (C++, OpenGL) and Interactive Story (C#, Windows Forms).
+- **Waters Corporation Internship:** Completed 120 hours of full-stack development practice and received an official practice certificate rated "Foarte bine" (Very Good).
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=georgekiptoo&show_icons=true&theme=tokyonight&hide_border=true" alt="George's GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgekiptoo&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=georgekiptoo&show_icons=true&theme=tokyonight&hide_border=true" alt="George's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgekiptoo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## Get In Touch
 
-I'm always interested in learning, collaborating on meaningful projects and exploring opportunities in software engineering and full-stack development.
+I'm always open to internship opportunities, collaborations and conversations about software development.
 
-**Open to IT internship opportunities for Summer 2027.**
+- **Email:** [limogeorge14@gmail.com](mailto:limogeorge14@gmail.com)
+- **Location:** Brașov, Romania
+- **LinkedIn:** [linkedin.com/in/george-kiptoo](https://linkedin.com/in/george-kiptoo)
+- **GitHub:** [github.com/georgekiptoo](https://github.com/georgekiptoo)
+
+**Currently seeking:** IT internship opportunities for Summer 2027.
 
 <p align="center">
-  <a href="mailto:limogeorge14@gmail.com"><img src="https://img.shields.io/badge/Email-limogeorge14%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/george-kiptoo"><img src="https://img.shields.io/badge/LinkedIn-george--kiptoo-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/georgekiptoo"><img src="https://img.shields.io/badge/GitHub-georgekiptoo-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
-<p align="center">
-  <i>"The best way to learn is to build."</i><br>
-  Thanks for visiting my profile!
+  <i>"The best way to learn is to build."</i><br/>
+  Feel free to explore my repositories and leave a star if you find something useful!
 </p>
