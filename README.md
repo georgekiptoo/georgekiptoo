@@ -191,7 +191,6 @@ I'm always open to internship opportunities, collaborations and conversations ab
 - **Email:** [limogeorge14@gmail.com](mailto:limogeorge14@gmail.com)
 - **Location:** Brașov, Romania
 - **LinkedIn:** [linkedin.com/in/george-kiptoo](https://linkedin.com/in/george-kiptoo)
-- **GitHub:** [github.com/georgekiptoo](https://github.com/georgekiptoo)
 
 **Currently seeking:** IT internship opportunities for Summer 2027.
 
