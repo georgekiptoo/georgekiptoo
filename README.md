@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an international IT student at Transilvania University of Brașov, with a previous degree in **Health Records & Information Management** and practical experience in full-stack development.
+I'm a 3rd year IT student at Transilvania University of Brașov, with a previous degree in **Health Records & Information Management** and practical experience in full-stack development.
 
 In summer 2026, I completed a full-stack development internship at **Waters Corporation**, where I collaborated on a team web application using C#, .NET, Entity Framework, MS SQL Server, Angular and TypeScript.
 
