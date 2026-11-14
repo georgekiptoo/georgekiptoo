@@ -191,6 +191,5 @@ I'm always open to internship opportunities, collaborations and conversations ab
 **Currently seeking:** IT internship opportunities for Summer 2027.
 
 <p align="center">
-  <i>"The best way to learn is to build."</i><br/>
-  Feel free to explore my repositories and leave a star if you find something useful!
+ 
 </p>
