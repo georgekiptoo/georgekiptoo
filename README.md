@@ -150,8 +150,8 @@ I'm currently interested in internship opportunities in:
 | Language | Level |
 |---|---|
 | Swahili | Native |
-| English | C1 – Proficient |
-| Romanian | B2 – Independent |
+| English | C1 |
+| Romanian | B2  |
 
 ---
 
